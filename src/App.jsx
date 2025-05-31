@@ -40,7 +40,7 @@ import Counter from './Counter'
 
 const App = () => {
   return (
-    <div>
+    <div style={padding="20" }>
       <Counter />
     </div>
   )
